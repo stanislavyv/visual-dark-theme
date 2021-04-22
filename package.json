@@ -6,9 +6,6 @@
     "engines": {
         "vscode": "^1.55.0"
     },
-    "categories": [
-        "Themes"
-    ],
     "icon": "icons/vd-icon.png",
     "author": {
         "name": "Stanislav Valkov",
@@ -16,8 +13,12 @@
         "url": "https://www.linkedin.com/in/stanislav-valkov-0967611b8/"
     },
     "repository": {
-        
+        "url": "https://github.com/stanislavyv/visual-dark-theme",
+        "type": "git"
     },
+    "categories": [
+        "Themes"
+    ],
     "contributes": {
         "themes": [
             {
