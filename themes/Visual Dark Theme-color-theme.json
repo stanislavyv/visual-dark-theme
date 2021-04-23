@@ -31,7 +31,7 @@
         "diffEditor.removedTextBackground": "#ff9cac20",
         "dropdown.background": "#292d3e",
         "dropdown.border": "#ffffff10",
-        "dropdown.foreground": "#7a70c2",
+        "dropdown.foreground": "#fb658b",
         "editor.background": "#22242a",
         "editor.findMatchBackground": "#000000",
         "editor.findMatchBorder": "#fb4875",
@@ -55,8 +55,8 @@
         "editor.wordHighlightBorder": "#ff4081b6",
         "editor.wordHighlightStrongBackground": "#00000050",
         "editor.wordHighlightStrongBorder": "#ff4081b6",
-        "editorBracketMatch.background": "#574d1b",
-        "editorBracketMatch.border": "#6cfdffbd",
+        "editorBracketMatch.background": "#1a3658",
+        "editorBracketMatch.border": "#6cd0ffc7",
         "editorCodeLens.foreground": "#776284",
         "editorCursor.foreground": "#fb4875",
         "editorError.border": "#292640",
@@ -1085,7 +1085,7 @@
         {
             "scope": "support.type.property-name.json, support.type.property-name.json.comments",
             "settings": {
-                "foreground": "#A9B7C6"
+                "foreground": "#8dc3da"
             }
         },
         {
@@ -1118,26 +1118,34 @@
         {
             "scope": "punctuation",
             "settings": {
-                "foreground": "#1a77e2",
+                "foreground": "#b5c5d8", // #1a99e2, #1fb8cc
                 "fontStyle": "bold"
+            }
+        },
+        {
+            "scope": "punctuation.definition.template-expression",
+            "settings": {
+                "foreground": "#1A99E2"
             }
         },
         {
             "scope": "meta.brace.square",
             "settings": {
-                "foreground": "#1a77e2"
+                "foreground": "#b5c5d8",
+                "fontStyle": "bold"
             }
         },
         {
-            "scope": "meta.brace.round.js",
+            "scope": "meta.brace.round",
             "settings": {
-                "foreground": "#1a77e2"
+                "foreground": "#b5c5d8",
+                "fontStyle": "bold"
             }
         },
         {
             "scope": "invalid.illegal",
             "settings": {
-                "foreground": "#ff1b1b",
+                "foreground": "#ff2c2c",
                 "fontStyle": "bold"
             }
         },
