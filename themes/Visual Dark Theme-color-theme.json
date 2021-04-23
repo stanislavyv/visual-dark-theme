@@ -571,7 +571,7 @@
             }
         },
         {
-            "scope": "support.constant.color, support.constant.property-value",
+            "scope": "support.constant.color, support.constant.property-value, support.constant.font-name",
             "settings": {
                 "foreground": "#C792EA"
             }
@@ -666,6 +666,12 @@
             "scope": "entity.other.attribute-name",
             "settings": {
                 "foreground": "#C792EA"
+            }
+        },
+        {
+            "scope": "text.html.derivative",
+            "settings": {
+                "foreground": "#d4d4d4"
             }
         },
         {
