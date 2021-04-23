@@ -5,3 +5,15 @@
 * P.S. - Feel free to change anything you like through the settings.json file or you could email me for design suggestions at stanislavyv@students.softuni.bg
 
 ## Screenshots:
+
+### Javascript
+![Javascript Example](images\jsex.png)
+
+### Typescript
+![Typescript Example](images\tsex.png)
+
+### HTML
+![HTML Example](images\htmlex.png)
+
+### CSS
+![CSS Example](images\cssex.png)
