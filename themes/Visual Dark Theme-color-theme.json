@@ -1129,9 +1129,15 @@
             }
         },
         {
+            "scope": "meta.brace.round.js",
+            "settings": {
+                "foreground": "#1a77e2"
+            }
+        },
+        {
             "scope": "invalid.illegal",
             "settings": {
-                "foreground": "#FF0000",
+                "foreground": "#ff1b1b",
                 "fontStyle": "bold"
             }
         },
