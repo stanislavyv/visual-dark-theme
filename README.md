@@ -7,13 +7,13 @@
 ## Screenshots:
 
 ### Javascript
-![Javascript Example](images\jsex.png)
+![Javascript Example](https://i.imgur.com/A6g5TLv.png)
 
 ### Typescript
-![Typescript Example](images\tsex.png)
+![Typescript Example](https://i.imgur.com/8UqTigr.png)
 
 ### HTML
-![HTML Example](images\htmlex.png)
+![HTML Example](https://i.imgur.com/Vesln4N.png)
 
 ### CSS
-![CSS Example](images\cssex.png)
+![CSS Example](https://i.imgur.com/TUaNCo0.png)
