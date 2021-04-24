@@ -7,7 +7,7 @@
 ## Screenshots:
 
 ### IDE
-![Editor Example](https://i.imgur.com/djRwsHs.png)
+![Editor Example](https://imgur.com/1uvZFkm)
 
 ### Javascript
 ![Javascript Example](https://i.imgur.com/A6g5TLv.png)
