@@ -29,9 +29,14 @@
     "contributes": {
         "themes": [
             {
-                "label": "Visual Dark Theme",
+                "label": "Visual Dark Dimmed",
                 "uiTheme": "vs-dark",
-                "path": "./themes/Visual Dark Theme-color-theme.json"
+                "path": "./themes/Visual Dark Dimmed-color-theme.json"
+            },
+            {
+                "label": "Visual Dark Default",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Visual Dark Default-color-theme.json"
             }
         ]
     },
