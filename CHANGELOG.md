@@ -7,3 +7,11 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 ## [Unreleased]
 
 - Initial release
+
+## [1.0.0] - 2022-03-04
+ 
+### Added
+ 
+- React support
+
+- Dark-default and dark-dimmed themes
