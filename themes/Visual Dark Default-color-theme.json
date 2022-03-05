@@ -655,12 +655,6 @@
             }
         },
         {
-            "scope": "storage.type, keyword.control",
-            "settings": {
-                "fontStyle": "italic"
-            }
-        },
-        {
             "scope": "keyword.operator, constant.other.color, punctuation, meta.tag, punctuation.definition.tag, punctuation.separator.inheritance.php, punctuation.definition.tag.html, punctuation.definition.tag.begin.html, punctuation.definition.tag.end.html, punctuation.section.embedded, keyword.other.template, keyword.other.substitution",
             "settings": {
                 "foreground": "#89DDFF"
@@ -713,13 +707,6 @@
             "scope": "entity.name.module.js, variable.import.parameter.js, variable.other.class.js",
             "settings": {
                 "foreground": "#FF5370"
-            }
-        },
-        {
-            "scope": "variable.language",
-            "settings": {
-                "foreground": "#FF5370",
-                "fontStyle": "italic"
             }
         },
         {
