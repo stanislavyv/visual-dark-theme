@@ -1364,13 +1364,13 @@
             }
         },
         {
-            "scope": "entity.name.type.namespace.cs, entity.name.variable.field.cs, entity.name.variable.property.cs, entity.name.variable.enum-member.cs",
+            "scope": "entity.name.type.namespace.cs, entity.name.variable.field.cs, entity.name.variable.property.cs, entity.name.variable.enum-member.cs, variable.other.object.property.cs",
             "settings": {
                 "foreground": "#E4E4E4"
             }
         },
         {
-            "scope": "variable.other.object.cs, variable.other.object.property.cs",
+            "scope": "variable.other.object.cs",
             "settings": {
                 "foreground": "#9CDCFE"
             }

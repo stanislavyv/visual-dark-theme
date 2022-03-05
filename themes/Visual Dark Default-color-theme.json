@@ -1449,7 +1449,7 @@
             }
         },
         {
-            "scope": "variable.other.object.cs, variable.other.object.property.cs",
+            "scope": "variable.other.object.cs",
             "settings": {
                 "foreground": "#9CDCFE"
             }
@@ -1468,7 +1468,7 @@
             }
         },
         {
-            "scope": "entity.name.type.namespace.java, entity.name.variable.field.java, entity.name.variable.property.java, entity.name.variable.enum-member.java,  meta.class.body.java, constant.other.enum.java, variable.other.object.property.java, storage.modifier.import.java",
+            "scope": "entity.name.type.namespace.java, entity.name.variable.field.java, entity.name.variable.property.java, entity.name.variable.enum-member.java,  meta.class.body.java, constant.other.enum.java, variable.other.object.property.java, storage.modifier.import.java, variable.other.object.property.cs",
             "settings": {
                 "foreground": "#E4E4E4"
             }
