@@ -1383,7 +1383,7 @@
             }
         },
         {
-            "scope": "storage.type.java, entity.other.inherited-class.java",
+            "scope": "storage.type.java, entity.other.inherited-class.java, variable.other.object.java",
             "settings": {
                 "foreground": "#4EC9B0"
             }
@@ -1395,7 +1395,7 @@
             }
         },
         {
-            "scope": "variable.parameter.java, variable.other.object.java, storage.type.object.array.java, variable.other.definition.java, meta.method-call.java, meta.function-call.java",
+            "scope": "variable.parameter.java, storage.type.object.array.java, variable.other.definition.java, meta.method-call.java, meta.function-call.java",
             "settings": {
                 "foreground": "#9CDCFE"
             }
