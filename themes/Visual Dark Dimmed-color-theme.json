@@ -1060,7 +1060,7 @@
             }
         },
         {
-            "scope": "string, variable.parameter.url",
+            "scope": "string, variable.parameter.url, support.constant.media.css",
             "settings": {
                 "foreground": "#FFA264"
             }
